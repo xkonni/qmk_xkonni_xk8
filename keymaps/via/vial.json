@@ -1,0 +1,21 @@
+{
+  "name": "xkonni xk8",
+  "vendorId": "0xBEEF",
+  "productId": "0x0008",
+  "lighting": "none",
+  "matrix": {
+    "rows": 2,
+    "cols": 4
+  },
+  "layouts": {
+    "labels": [],
+    "keymap": [
+      [ { "y": 0.25, "x": 2.5 },
+        "0,0\n\n\n\n\n\n\n\n\ne",
+        "0,1\n\n\n\n\n\n\n\n\ne"
+      ],
+      [ "0,0","0,1","0,2","0,3"],
+      [ "1,0","1,1","1,2","1,3"]
+    ]
+  }
+}
