@@ -16,13 +16,20 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = LAYOUT(
-    KC_A,   KC_B,   KC_C,   KC_D,
-    KC_E,   KC_F,   KC_G,   MO(1)
+    KC_A,     KC_B,     KC_C,     KC_D,
+    KC_E,     KC_F,     KC_G,     MO(1)
   ),
-
   [1] = LAYOUT(
-    KC_F1,  KC_F2,  KC_F3,  RESET,
-    KC_F5,  KC_F6,  KC_F7,  _______
+    KC_F1,    KC_F2,    KC_F3,    RESET,
+    KC_F5,    KC_F6,    KC_F7,    _______
+  ),
+  [2] = LAYOUT(
+    _______,  _______,  _______,  _______,
+    _______,  _______,  _______,  _______
+  ),
+  [3] = LAYOUT(
+    _______,  _______,  _______,  _______,
+    _______,  _______,  _______,  _______
   )
 };
 

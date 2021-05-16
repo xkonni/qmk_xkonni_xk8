@@ -1,0 +1,21 @@
+{
+    "keyboard_name": "xk8",
+    "url": "https://github.com/xkonni/qmk_xkonni_xk8",
+    "maintainer": "xkonni",
+    "width": 5,
+    "height": 2.5,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x":0, "y":0},
+                {"x":1.25, "y":0},
+                {"x":2.25, "y":0},
+                {"x":3.25, "y":0},
+                {"x":0, "y":1.25},
+                {"x":1, "y":1.25},
+                {"x":2, "y":1.25},
+                {"x":3, "y":1.25}
+            ]
+        }
+    }
+}
